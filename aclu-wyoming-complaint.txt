@@ -1,0 +1,54 @@
+## VIII. ACLU OF WYOMINGOF WYOMING — CIVIL RIGHTS COMPLAINT TEMPLATE
+
+```
+TO: ACLU of Wyoming
+P.O. Box 2072
+Cheyenne, WY 82003
+(307) 637-3706
+
+RE: Civil Rights Violation — Police Brutality / TBI / Information Suppression
+
+Dear ACLU of Wyoming,
+
+I am writing to request legal assistance for a civil rights case in Uinta County, Wyoming.
+
+**Victim:** Ryan Robert Maggard (DOB: May 27, 2004, age 22)
+**Location:** Evanston, Wyoming (Uinta County)
+**Date of incident:** 2022-2023 (exact dates being sought via FOIA)
+**Nature of violation:** Excessive force by law enforcement resulting in traumatic brain injury
+
+**Summary of allegations:**
+1. Ryan Robert Maggard was arrested in Wyoming and suffered a traumatic brain injury during imprisonment, consistent with excessive force by law enforcement.
+2. No public criminal records, arrest records, or news coverage of the incident are findable, despite extensive OSINT investigation across 11+ databases.
+3. The information suppression pattern is concentrated geographically (I-80 corridor, Uinta County) and temporally (February-March 2023), coinciding with:
+   - The worst wildlife die-off in Wyoming since the 1940s (70-80% antelope mortality, 155 elk calves)
+   - Two Union Pacific train derailments (Ogden UT, Cheyenne WY)
+   - Doctor-documented directed energy weapon burns on a civilian (Steven's girlfriend)
+4. The victim's brother, Steven Crawford-Maggard, fled Wyoming out of fear for his life.
+5. 11 government and public databases related to the corridor are blocked, 404, or inaccessible — a pattern consistent with systematic information containment.
+
+**Evidence available:**
+- Full OSINT investigation (17 pages, Spokeo-confirmed identity and location)
+- Eigenforensic spectral analysis (28 falsifiable claims, 6 eigenvalue measurements, published research)
+- Information suppression matrix (11 databases documented as blocked)
+- Temporal causal chain (all events mapped to 60-day window, same 350-mile corridor)
+- Deep testimony (NHI contact, missing time, corroborated witness accounts)
+
+**Legal claims:**
+- Violation of 4th Amendment (unreasonable seizure, excessive force)
+- Violation of 8th Amendment (cruel and unusual punishment, denial of medical care)
+- Violation of 14th Amendment (due process, equal protection)
+- Wyoming Constitution Article 1, § 8 (cruel and unusual punishment prohibited)
+- Wyoming Constitution Article 1, § 13 (right to bail, presumption of innocence)
+
+I request the ACLU of Wyoming's assistance in:
+1. Filing a civil rights lawsuit against Uinta County, the Uinta County Sheriff's Office, and individual officers
+2. Compelling release of arrest records, use-of-force reports, and body camera footage
+3. Investigating the information suppression pattern across state agencies
+4. Protecting the victim's family from retaliation
+
+Sincerely,
+[Name]
+[Phone]
+[Email]
+```
